@@ -1,0 +1,36 @@
+{
+ "stations": {
+  "ST-KAV": {
+   "zone": "Z1",
+   "name": "Kavuli (synthetic)"
+  },
+  "ST-MUT": {
+   "zone": "Z1",
+   "name": "Muthini (synthetic)"
+  }
+ },
+ "nearest_station": {
+  "Nduu": {
+   "station": "ST-KAV",
+   "distance_km": 18
+  }
+ },
+ "outlooks": {
+  "Z1": {
+   "source_id": "OUT-2026-OND-Z1",
+   "season": "OND 2026",
+   "above": 0.25,
+   "normal": 0.35,
+   "below": 0.4,
+   "note": "synthetic outlook"
+  },
+  "Z2": {
+   "source_id": "OUT-2026-OND-Z2",
+   "season": "OND 2026",
+   "above": 0.35,
+   "normal": 0.4,
+   "below": 0.25,
+   "note": "synthetic outlook"
+  }
+ }
+}
